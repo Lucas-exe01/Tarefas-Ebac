@@ -1,0 +1,38 @@
+# Ignore compiled class files
+*.class
+
+# Build directories
+/bin/
+/build/
+/target/
+
+# Maven/Gradle
+/.mvn/
+/.gradle/
+/gradle/
+
+# IDE directories
+.vscode/
+.idea/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ
+/out/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# temporary files
+*.tmp
+*.swp
+
+# Environment
+.env
